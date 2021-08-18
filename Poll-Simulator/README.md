@@ -1,8 +1,8 @@
-# Poll Simulator(Enterprise Computing Assignment)
+# Poll Simulator
 
 ## Important
-### -->Business Logic is represented in index.js file.
-### -->Presentation Logic is represented in views folder.
+### -->index.js file contain business logic.
+### -->views folder contain presentation logic.
 
 ### Add Candidates: Add candidates for elections by this.
 ### Vote: Vote candidates by this.
