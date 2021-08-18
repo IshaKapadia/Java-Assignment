@@ -1,8 +1,8 @@
 # Poll Simulator
 
-## Important
-### -->index.js file contain business logic.
-### -->views folder contain presentation logic.
+## Notes:-
+### 1)index.js file contain business logic.
+### 2)views folder contain presentation logic.
 
 ### Add Candidates: Add candidates for elections by this.
 ### Vote: Vote candidates by this.
